@@ -1,0 +1,12 @@
+body {
+    background-image: url('/back4.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+  #resultDiv{
+    font-size: large;
+    color:rgb(218, 218, 147);
+
+  }
